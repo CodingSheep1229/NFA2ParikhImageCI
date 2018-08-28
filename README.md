@@ -1,5 +1,5 @@
 # NFA2Parikh
-[![Build Status](https://travis-ci.org/CodingSheep1229/NFA2ParikhImageCI.svg?branch=master)](https://travis-ci.org/CodingSheep1229/NFA2ParikhImageCI)
+[![Build Status](https://travis-ci.org/CodingSheep1229/NFA2ParikhImageCI.svg?branch=master)](https://travis-ci.org/CodingSheep1229/NFA2ParikhImageCI)<br>
 Convert Nondeterministic Finite Automaton to Parikh Images in z3 format
 <br>
 this method is based on
